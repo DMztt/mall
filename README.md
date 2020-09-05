@@ -1,4 +1,4 @@
-# mall vue
+# mall
 
 ## Project setup
 ```
